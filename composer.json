@@ -1,5 +1,5 @@
 {
-    "name": "eloquent/enumeration",
+    "name": "elgg/enumeration",
     "description": "An enumeration implementation for PHP.",
     "keywords": ["enum", "enumeration", "set", "class", "multiton", "type"],
     "homepage": "https://github.com/eloquent/enumeration",
